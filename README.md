@@ -14,7 +14,6 @@ Drop-in plugin for WordPress 5.8+ that generates `llms.txt`, hardens `robots.txt
 
 ---
 
-> Replace `assets/hero.png` with a screenshot of the plugin admin panel before publishing.  
 > ![AI Visibility Admin Panel](assets/hero.png)
 
 ---
