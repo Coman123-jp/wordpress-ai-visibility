@@ -1,0 +1,28 @@
+# Node / Build
+node_modules/
+ai-visibility/node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Release artifacts (zip files)
+release/*.zip
+*.zip
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# WordPress
+wp-config.php

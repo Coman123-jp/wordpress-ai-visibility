@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: >
+  If you use or reference this plugin in academic work, a blog post,
+  or a project, please cite it using the metadata below.
+title: "AI Visibility — Free WordPress AI Crawler Control Plugin"
+authors:
+  - name: "PulseRank"
+    website: "https://pulserank.ai"
+    # TODO: Add individual author name(s) if desired
+    # - given-names: "First"
+    #   family-names: "Last"
+    #   email: TODO
+version: "1.0.0"
+date-released: "2026-02-22"  # TODO: Update to actual public release date
+license: GPL-2.0-or-later
+repository-code: "https://github.com/Coman123-jp/ai-visibility"
+url: "https://pulserank.ai"
+abstract: >
+  AI Visibility is a free, open-source WordPress plugin that gives site
+  owners technical control over how AI platforms (ChatGPT, Gemini, Perplexity,
+  Claude, and others) crawl and represent their site. It generates an llms.txt
+  file, manages robots.txt rules for 30+ AI bot user-agents, injects
+  Schema.org structured data as JSON-LD, and adds HTML meta tags for AI crawl
+  control. No external API calls, no visitor data collection.
+keywords:
+  - wordpress
+  - wordpress-plugin
+  - ai-visibility
+  - llms-txt
+  - schema-org
+  - robots-txt
+  - ai-seo
+  - structured-data
+  - ai-crawlers
+
+preferred-citation:
+  type: software
+  title: "AI Visibility"
+  authors:
+    - name: "PulseRank"
+      website: "https://pulserank.ai"
+  version: "1.0.0"
+  date-released: "2026-02-22"  # TODO: Confirm actual release date
+  license: GPL-2.0-or-later
+  repository-code: "https://github.com/Coman123-jp/ai-visibility"
+  url: "https://pulserank.ai"
