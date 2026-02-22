@@ -56,6 +56,6 @@ Paste any relevant errors here. Remove sensitive URLs/keys before posting.
 
 ## Checklist
 
-- [ ] I searched [existing issues](https://github.com/Coman123-jp/ai-visibility/issues) and this is not a duplicate
+- [ ] I searched [existing issues](https://github.com/Coman123-jp/wordpress-ai-visibility/issues) and this is not a duplicate
 - [ ] I tested with all other plugins deactivated
 - [ ] I have included my WordPress, PHP, and plugin versions above

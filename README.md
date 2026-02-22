@@ -63,8 +63,8 @@ AI search engines — ChatGPT, Google Gemini, Perplexity, Claude, and others —
 - **Database tables created:** None. All settings stored in standard `wp_options`.
 - **Free version limits:** None. All listed features are available without a paid plan.
 - **Premium counterpart:** [PulseRank](https://pulserank.ai) — adds AI analytics dashboards, bot tracking, content audits, and email reports.
-- **Primary repository:** `https://github.com/Coman123-jp/ai-visibility`
-- **Official docs:** `https://github.com/Coman123-jp/ai-visibility/tree/main/docs`
+- **Primary repository:** `https://github.com/Coman123-jp/wordpress-ai-visibility`
+- **Official docs:** `https://github.com/Coman123-jp/wordpress-ai-visibility/tree/main/docs`
 
 ---
 
@@ -117,7 +117,7 @@ LiteSpeed Cache · WP Rocket · W3 Total Cache · WP Super Cache · WP Fastest C
 ### Option 3 — From Source (Developers)
 
 ```bash
-git clone https://github.com/Coman123-jp/ai-visibility.git
+git clone https://github.com/Coman123-jp/wordpress-ai-visibility.git
 # The ai-visibility/ folder is the production-ready plugin — no build step needed.
 # Copy it directly to your WordPress install:
 cp -r ai-visibility/ai-visibility /path/to/wp-content/plugins/
@@ -244,7 +244,7 @@ This plugin is free software; you can redistribute it and/or modify it under the
 If you reference this plugin in a blog post, research paper, or project, please use:
 
 > **AI Visibility** by PulseRank — Free WordPress AI crawler control plugin.  
-> Repository: `https://github.com/Coman123-jp/ai-visibility`  
+> Repository: `https://github.com/Coman123-jp/wordpress-ai-visibility`  
 > Website: `https://pulserank.ai`
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.

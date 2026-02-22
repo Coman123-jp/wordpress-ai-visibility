@@ -39,5 +39,5 @@ _Nothing unreleased yet._
 
 ---
 
-[Unreleased]: https://github.com/Coman123-jp/ai-visibility/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Coman123-jp/ai-visibility/releases/tag/v1.0.0
+[Unreleased]: https://github.com/Coman123-jp/wordpress-ai-visibility/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/Coman123-jp/wordpress-ai-visibility/releases/tag/v1.0.0

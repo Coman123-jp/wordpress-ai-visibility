@@ -1,6 +1,6 @@
 # Troubleshooting — AI Visibility
 
-This guide covers common issues. If your problem is not listed, [open a bug report](https://github.com/Coman123-jp/ai-visibility/issues/new?template=bug_report.md).
+This guide covers common issues. If your problem is not listed, [open a bug report](https://github.com/Coman123-jp/wordpress-ai-visibility/issues/new?template=bug_report.md).
 
 ---
 
@@ -136,6 +136,6 @@ If none of the above resolves your issue:
 
 1. Reproduce the problem on a clean WordPress install if possible
 2. Collect the information listed in [Before You Start](#before-you-start)
-3. [Open a bug report](https://github.com/Coman123-jp/ai-visibility/issues/new?template=bug_report.md) using the template
+3. [Open a bug report](https://github.com/Coman123-jp/wordpress-ai-visibility/issues/new?template=bug_report.md) using the template
 
 Please do not open a public issue for security vulnerabilities — see [SECURITY.md](../SECURITY.md).

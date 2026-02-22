@@ -13,7 +13,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-02-22"  # TODO: Update to actual public release date
 license: GPL-2.0-or-later
-repository-code: "https://github.com/Coman123-jp/ai-visibility"
+repository-code: "https://github.com/Coman123-jp/wordpress-ai-visibility"
 url: "https://pulserank.ai"
 abstract: >
   AI Visibility is a free, open-source WordPress plugin that gives site
@@ -42,5 +42,5 @@ preferred-citation:
   version: "1.0.0"
   date-released: "2026-02-22"  # TODO: Confirm actual release date
   license: GPL-2.0-or-later
-  repository-code: "https://github.com/Coman123-jp/ai-visibility"
+  repository-code: "https://github.com/Coman123-jp/wordpress-ai-visibility"
   url: "https://pulserank.ai"

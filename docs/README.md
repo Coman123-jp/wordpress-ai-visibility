@@ -3,7 +3,7 @@
 **Plugin:** AI Visibility  
 **Version:** 1.0.0  
 **Author:** [PulseRank](https://pulserank.ai)  
-**Primary repository:** `https://github.com/Coman123-jp/ai-visibility`
+**Primary repository:** `https://github.com/Coman123-jp/wordpress-ai-visibility`
 
 ---
 
@@ -40,5 +40,5 @@ All settings are stored in `wp_options` with the prefix `aiv_`.
 
 1. Read the [FAQ](FAQ.md) — most questions are answered there
 2. Check [Troubleshooting](TROUBLESHOOTING.md) for technical issues
-3. Search [GitHub Issues](https://github.com/Coman123-jp/ai-visibility/issues)
-4. Open a [Bug Report](https://github.com/Coman123-jp/ai-visibility/issues/new?template=bug_report.md) or [Feature Request](https://github.com/Coman123-jp/ai-visibility/issues/new?template=feature_request.md)
+3. Search [GitHub Issues](https://github.com/Coman123-jp/wordpress-ai-visibility/issues)
+4. Open a [Bug Report](https://github.com/Coman123-jp/wordpress-ai-visibility/issues/new?template=bug_report.md) or [Feature Request](https://github.com/Coman123-jp/wordpress-ai-visibility/issues/new?template=feature_request.md)

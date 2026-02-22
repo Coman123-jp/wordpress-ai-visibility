@@ -109,4 +109,4 @@ See [TROUBLESHOOTING.md → Settings not saving](TROUBLESHOOTING.md#settings-not
 
 ---
 
-_Can't find your question? [Open an issue](https://github.com/Coman123-jp/ai-visibility/issues/new?template=bug_report.md) on GitHub._
+_Can't find your question? [Open an issue](https://github.com/Coman123-jp/wordpress-ai-visibility/issues/new?template=bug_report.md) on GitHub._

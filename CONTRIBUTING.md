@@ -72,7 +72,7 @@ If you need to modify the React admin UI, you need the source build:
 
 ```bash
 # Clone and install dependencies
-git clone https://github.com/Coman123-jp/ai-visibility.git
+git clone https://github.com/Coman123-jp/wordpress-ai-visibility.git
 cd ai-visibility
 
 # The source JS lives in ai-visibility/src/admin-app.js

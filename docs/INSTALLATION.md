@@ -19,7 +19,7 @@ This guide covers all installation methods and post-install verification steps.
 
 This is the recommended method for most users.
 
-1. Go to the [Releases](https://github.com/Coman123-jp/ai-visibility/releases) page
+1. Go to the [Releases](https://github.com/Coman123-jp/wordpress-ai-visibility/releases) page
 2. Download `ai-visibility.zip` from the latest release
 3. In your WordPress admin, go to **Plugins → Add New**
 4. Click **Upload Plugin** at the top
@@ -68,7 +68,7 @@ Use this if your server does not allow ZIP uploads or you prefer direct access.
 The `ai-visibility/` folder in this repository is the production-ready plugin — no build step is needed for deployment.
 
 ```bash
-git clone https://github.com/Coman123-jp/ai-visibility.git
+git clone https://github.com/Coman123-jp/wordpress-ai-visibility.git
 cp -r ai-visibility/ai-visibility /path/to/wp-content/plugins/
 ```
 

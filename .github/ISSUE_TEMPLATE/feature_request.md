@@ -40,5 +40,5 @@ assignees: ''
 
 ## Checklist
 
-- [ ] I searched [existing issues](https://github.com/Coman123-jp/ai-visibility/issues) and this has not been proposed before
+- [ ] I searched [existing issues](https://github.com/Coman123-jp/wordpress-ai-visibility/issues) and this has not been proposed before
 - [ ] This feature fits within the scope of the plugin (AI crawler visibility for WordPress)
